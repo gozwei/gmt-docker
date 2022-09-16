@@ -24,4 +24,4 @@ gmt-docker gmt pscoast -R -Df -Ia/0.03p,black -J -N1/0.5p -N2/0.25p,- -G#dde6d5 
 gmt-docker convert -geometry 2048x2048 -density 600 -background white -flatten -trim +repage USA.ps USA.png
 ```
 
-![GMT map of the USA](_/USA.png)
+![GMT map of the USA](_/USA.jpg)
